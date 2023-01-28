@@ -4,7 +4,11 @@
 
 ## Description
 
-The goal of Project (or Challenge) One was to refactor a website and add semantic tags to the index.html file. I was given the source code for the webpage, where most code blocks were tagged using "div", and needed to be replaced with tags like "header", "footer", and "main", among others. I was instructed not to change anything about the layout or style of the webpage, only clean up the HTML.
+The goal of Project (or Challenge) One was to refactor a website and add semantic tags to the index.html file. I was given the source code for the webpage, where most code blocks were tagged using "div", and needed to be replaced with tags like "header", "footer", and "main", among others. In addition, I was to add alt text to all of the images to adhere to accessibility standards. The HTML had to have logical sequencing and structure, along with a more descriptive title for the webpage. I was instructed not to change anything about the layout or style of the webpage, only clean up the HTML.
+
+## Screenshot
+
+<img src="./assets/screenshots/Challenge-01-Screenshot1.png" width="100%" height="100%" alt="Screenshot of deployed webpage"/>
 
 ## Links
 
