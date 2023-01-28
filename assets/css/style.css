@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+/*I moved the a and p element selectors further up in the stylesheet to keep selectors and properties consolidated and organized to follow semantic structure.*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +34,7 @@ body {
     color: #d9dcd6;
 }
 
+/*I updated the following three class elements from div to nav, in order to replicate the webpage's original structure.*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,15 +50,6 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
